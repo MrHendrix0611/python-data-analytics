@@ -1,0 +1,22 @@
+                 ┌──────────────┐
+                 │   dados.csv  │
+                 └──────┬───────┘
+                        ↓
+                 ┌──────────────┐
+                 │  analysis.py │
+                 │              │
+                 │ groupby      │
+                 │ sum          │
+                 │ ordenação    │
+                 └──────┬───────┘
+                        ↓
+                  Dados analisados
+                        ↓
+              ┌─────────┴─────────┐
+              ↓                   ↓
+       ┌─────────────┐     ┌───────────────┐
+       │   main.py   │     │visualization.py│
+       │             │     │               │
+       │ resultados  │     │ gráficos      │
+       │ textuais    │     │ dashboards    │
+       └─────────────┘     └───────────────┘

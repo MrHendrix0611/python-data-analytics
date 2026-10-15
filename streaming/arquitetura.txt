@@ -1,0 +1,15 @@
+streaming_churn_project/
+│
+├──  data/
+│   └── streaming_churn.csv        # Dataset com os 100 registros
+│
+├──  src/
+│   ├── __init__.py                # Identificador de pacote Python
+│   ├── coleta.py                  # Leitura e carregamento do arquivo CSV
+│   ├── limpar.py                  # Identificação de nulos e duplicações
+│   ├── tratar.py                  # Imputação de nulos (média/mediana/moda)
+│   ├── analysis.py                # Agrupamentos, taxas de churn e estatísticas
+│   └── visualization.py           # Geração e exportação dos gráficos
+│
+├──  main.py                        # Script principal (executa a pipeline completa)
+└──  requirements.txt               # Dependências do projeto (pandas, matplotlib, seaborn)

@@ -1,0 +1,34 @@
+ ┌────────────────────────┐
+ │   livraria_vendas.json │
+ └───────────┬────────────┘
+             │
+             ▼
+      ┌─────────────┐
+      │  coleta.py  │  <-- Carrega e lê o arquivo JSON
+      └──────┬──────┘
+             │ (DataFrame bruto)
+             ▼
+      ┌─────────────┐
+      │  limpar.py  │  <-- Trata nulos, duplicatas e tipos numéricos
+      └──────┬──────┘
+             │ (DataFrame limpo)
+             ▼
+      ┌─────────────┐
+      │  tratar.py  │  <-- Calcula média de avaliações, receitas e lucros
+      └──────┬──────┘
+             │ (DataFrame tratado)
+             ├────────────────────────┐
+             ▼                        ▼
+     ┌──────────────┐        ┌──────────────────┐
+     │  analysis.py │        │ visualization.py │
+     └──────┬───────┘        └────────┬─────────┘
+            │                         │
+            ▼                         ▼
+   Relatório de Texto          Gráficos Interativos /
+ (Terminal / perguntas.txt)    Figuras do Matplotlib
+             ▲                        ▲
+             └───────────┬────────────┘
+                         │
+                  ┌──────────────┐
+                  │   main.py    │ <-- Orquestrador principal
+                  └──────────────┘

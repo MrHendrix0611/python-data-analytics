@@ -1,0 +1,2404 @@
+{
+  "clientes": [
+    {
+      "id_cliente": "C0001",
+      "nome": "Cliente 0001",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0002",
+      "nome": "Cliente 0002",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0003",
+      "nome": "Cliente 0003",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0004",
+      "nome": "Cliente 0004",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0005",
+      "nome": "Cliente 0005",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0006",
+      "nome": "Cliente 0006",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0007",
+      "nome": "Cliente 0007",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0008",
+      "nome": "Cliente 0008",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0009",
+      "nome": "Cliente 0009",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0010",
+      "nome": "Cliente 0010",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0011",
+      "nome": "Cliente 0011",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0012",
+      "nome": "Cliente 0012",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0013",
+      "nome": "Cliente 0013",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0014",
+      "nome": "Cliente 0014",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0015",
+      "nome": "Cliente 0015",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0016",
+      "nome": "Cliente 0016",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0017",
+      "nome": "Cliente 0017",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0018",
+      "nome": "Cliente 0018",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0019",
+      "nome": "Cliente 0019",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0020",
+      "nome": "Cliente 0020",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0021",
+      "nome": "Cliente 0021",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0022",
+      "nome": "Cliente 0022",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0023",
+      "nome": "Cliente 0023",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0024",
+      "nome": "Cliente 0024",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0025",
+      "nome": "Cliente 0025",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0026",
+      "nome": "Cliente 0026",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0027",
+      "nome": "Cliente 0027",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0028",
+      "nome": "Cliente 0028",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0029",
+      "nome": "Cliente 0029",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0030",
+      "nome": "Cliente 0030",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0031",
+      "nome": "Cliente 0031",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0032",
+      "nome": "Cliente 0032",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0033",
+      "nome": "Cliente 0033",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0034",
+      "nome": "Cliente 0034",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0035",
+      "nome": "Cliente 0035",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0036",
+      "nome": "Cliente 0036",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0037",
+      "nome": "Cliente 0037",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0038",
+      "nome": "Cliente 0038",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0039",
+      "nome": "Cliente 0039",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0040",
+      "nome": "Cliente 0040",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0041",
+      "nome": "Cliente 0041",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0042",
+      "nome": "Cliente 0042",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0043",
+      "nome": "Cliente 0043",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0044",
+      "nome": "Cliente 0044",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0045",
+      "nome": "Cliente 0045",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0046",
+      "nome": "Cliente 0046",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0047",
+      "nome": "Cliente 0047",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0048",
+      "nome": "Cliente 0048",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0049",
+      "nome": "Cliente 0049",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0050",
+      "nome": "Cliente 0050",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0051",
+      "nome": "Cliente 0051",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0052",
+      "nome": "Cliente 0052",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0053",
+      "nome": "Cliente 0053",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0054",
+      "nome": "Cliente 0054",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0055",
+      "nome": "Cliente 0055",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0056",
+      "nome": "Cliente 0056",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0057",
+      "nome": "Cliente 0057",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0058",
+      "nome": "Cliente 0058",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0059",
+      "nome": "Cliente 0059",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0060",
+      "nome": "Cliente 0060",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0061",
+      "nome": "Cliente 0061",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0062",
+      "nome": "Cliente 0062",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0063",
+      "nome": "Cliente 0063",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0064",
+      "nome": "Cliente 0064",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0065",
+      "nome": "Cliente 0065",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0066",
+      "nome": "Cliente 0066",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0067",
+      "nome": "Cliente 0067",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0068",
+      "nome": "Cliente 0068",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0069",
+      "nome": "Cliente 0069",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0070",
+      "nome": "Cliente 0070",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0071",
+      "nome": "Cliente 0071",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0072",
+      "nome": "Cliente 0072",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0073",
+      "nome": "Cliente 0073",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0074",
+      "nome": "Cliente 0074",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0075",
+      "nome": "Cliente 0075",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0076",
+      "nome": "Cliente 0076",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0077",
+      "nome": "Cliente 0077",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0078",
+      "nome": "Cliente 0078",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0079",
+      "nome": "Cliente 0079",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0080",
+      "nome": "Cliente 0080",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0081",
+      "nome": "Cliente 0081",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0082",
+      "nome": "Cliente 0082",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0083",
+      "nome": "Cliente 0083",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0084",
+      "nome": "Cliente 0084",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0085",
+      "nome": "Cliente 0085",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0086",
+      "nome": "Cliente 0086",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0087",
+      "nome": "Cliente 0087",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0088",
+      "nome": "Cliente 0088",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0089",
+      "nome": "Cliente 0089",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0090",
+      "nome": "Cliente 0090",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0091",
+      "nome": "Cliente 0091",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0092",
+      "nome": "Cliente 0092",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0093",
+      "nome": "Cliente 0093",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0094",
+      "nome": "Cliente 0094",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0095",
+      "nome": "Cliente 0095",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0096",
+      "nome": "Cliente 0096",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0097",
+      "nome": "Cliente 0097",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0098",
+      "nome": "Cliente 0098",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0099",
+      "nome": "Cliente 0099",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0100",
+      "nome": "Cliente 0100",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0101",
+      "nome": "Cliente 0101",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0102",
+      "nome": "Cliente 0102",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0103",
+      "nome": "Cliente 0103",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0104",
+      "nome": "Cliente 0104",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0105",
+      "nome": "Cliente 0105",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0106",
+      "nome": "Cliente 0106",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0107",
+      "nome": "Cliente 0107",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0108",
+      "nome": "Cliente 0108",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0109",
+      "nome": "Cliente 0109",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0110",
+      "nome": "Cliente 0110",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0111",
+      "nome": "Cliente 0111",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0112",
+      "nome": "Cliente 0112",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0113",
+      "nome": "Cliente 0113",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0114",
+      "nome": "Cliente 0114",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0115",
+      "nome": "Cliente 0115",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0116",
+      "nome": "Cliente 0116",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0117",
+      "nome": "Cliente 0117",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0118",
+      "nome": "Cliente 0118",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0119",
+      "nome": "Cliente 0119",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0120",
+      "nome": "Cliente 0120",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0121",
+      "nome": "Cliente 0121",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0122",
+      "nome": "Cliente 0122",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0123",
+      "nome": "Cliente 0123",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0124",
+      "nome": "Cliente 0124",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0125",
+      "nome": "Cliente 0125",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0126",
+      "nome": "Cliente 0126",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0127",
+      "nome": "Cliente 0127",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0128",
+      "nome": "Cliente 0128",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0129",
+      "nome": "Cliente 0129",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0130",
+      "nome": "Cliente 0130",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0131",
+      "nome": "Cliente 0131",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0132",
+      "nome": "Cliente 0132",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0133",
+      "nome": "Cliente 0133",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0134",
+      "nome": "Cliente 0134",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0135",
+      "nome": "Cliente 0135",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0136",
+      "nome": "Cliente 0136",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0137",
+      "nome": "Cliente 0137",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0138",
+      "nome": "Cliente 0138",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0139",
+      "nome": "Cliente 0139",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0140",
+      "nome": "Cliente 0140",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0141",
+      "nome": "Cliente 0141",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0142",
+      "nome": "Cliente 0142",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0143",
+      "nome": "Cliente 0143",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0144",
+      "nome": "Cliente 0144",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0145",
+      "nome": "Cliente 0145",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0146",
+      "nome": "Cliente 0146",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0147",
+      "nome": "Cliente 0147",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0148",
+      "nome": "Cliente 0148",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0149",
+      "nome": "Cliente 0149",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0150",
+      "nome": "Cliente 0150",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0151",
+      "nome": "Cliente 0151",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0152",
+      "nome": "Cliente 0152",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0153",
+      "nome": "Cliente 0153",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0154",
+      "nome": "Cliente 0154",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0155",
+      "nome": "Cliente 0155",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0156",
+      "nome": "Cliente 0156",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0157",
+      "nome": "Cliente 0157",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0158",
+      "nome": "Cliente 0158",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0159",
+      "nome": "Cliente 0159",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0160",
+      "nome": "Cliente 0160",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0161",
+      "nome": "Cliente 0161",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0162",
+      "nome": "Cliente 0162",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0163",
+      "nome": "Cliente 0163",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0164",
+      "nome": "Cliente 0164",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0165",
+      "nome": "Cliente 0165",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0166",
+      "nome": "Cliente 0166",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0167",
+      "nome": "Cliente 0167",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0168",
+      "nome": "Cliente 0168",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0169",
+      "nome": "Cliente 0169",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0170",
+      "nome": "Cliente 0170",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0171",
+      "nome": "Cliente 0171",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0172",
+      "nome": "Cliente 0172",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0173",
+      "nome": "Cliente 0173",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0174",
+      "nome": "Cliente 0174",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0175",
+      "nome": "Cliente 0175",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0176",
+      "nome": "Cliente 0176",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0177",
+      "nome": "Cliente 0177",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0178",
+      "nome": "Cliente 0178",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0179",
+      "nome": "Cliente 0179",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0180",
+      "nome": "Cliente 0180",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0181",
+      "nome": "Cliente 0181",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0182",
+      "nome": "Cliente 0182",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0183",
+      "nome": "Cliente 0183",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0184",
+      "nome": "Cliente 0184",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0185",
+      "nome": "Cliente 0185",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0186",
+      "nome": "Cliente 0186",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0187",
+      "nome": "Cliente 0187",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0188",
+      "nome": "Cliente 0188",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0189",
+      "nome": "Cliente 0189",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0190",
+      "nome": "Cliente 0190",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0191",
+      "nome": "Cliente 0191",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0192",
+      "nome": "Cliente 0192",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0193",
+      "nome": "Cliente 0193",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0194",
+      "nome": "Cliente 0194",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0195",
+      "nome": "Cliente 0195",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    },
+    {
+      "id_cliente": "C0196",
+      "nome": "Cliente 0196",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+      }
+    },
+    {
+      "id_cliente": "C0197",
+      "nome": "Cliente 0197",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "BA",
+        "cidade": "Salvador"
+      }
+    },
+    {
+      "id_cliente": "C0198",
+      "nome": "Cliente 0198",
+      "perfil": {
+        "segmento": "Novo",
+        "origem": "Site"
+      },
+      "endereco": {
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    },
+    {
+      "id_cliente": "C0199",
+      "nome": "Cliente 0199",
+      "perfil": {
+        "segmento": "Recorrente",
+        "origem": "Indicacao"
+      },
+      "endereco": {
+        "uf": "PR",
+        "cidade": "Curitiba"
+      }
+    },
+    {
+      "id_cliente": "C0200",
+      "nome": "Cliente 0200",
+      "perfil": {
+        "segmento": "Premium",
+        "origem": "Redes sociais"
+      },
+      "endereco": {
+        "uf": "SP",
+        "cidade": "Sao Paulo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+id_cliente,tempo_uso_diario_min,plano_contratado,suporte_chamados,motivo_cancelamento,churn
+1,45.5,Básico,2,Preço elevado,1
+2,120.0,Premium,0,,0
+3,,Família,5,Problemas técnicos,1
+4,95.2,Básico,1,,0
+5,15.0,Básico,4,Conteúdo insuficiente,1
+6,210.8,Premium,0,,0
+7,30.0,,3,Preço elevado,1
+8,185.0,Família,1,,0
+9,5.0,Básico,6,Problemas técnicos,1
+10,140.0,Premium,1,,0
+11,,Básico,0,,0
+12,80.5,Família,2,Preço elevado,1
+13,310.0,Premium,0,,0
+14,25.0,Básico,3,Conteúdo insuficiente,1
+15,175.4,Família,1,,0
+16,190.2,Premium,0,,0
+17,12.5,Básico,4,Preço elevado,1
+18,220.0,Família,0,,0
+19,40.0,Básico,3,Problemas técnicos,1
+20,165.1,Premium,1,,0
+21,280.0,Premium,0,,0
+22,18.0,Básico,5,Conteúdo insuficiente,1
+23,135.0,Família,2,,0
+24,,Premium,1,,0
+25,55.0,Básico,3,Preço elevado,1
+26,205.5,Família,0,,0
+27,10.0,Básico,4,Problemas técnicos,1
+28,150.2,Premium,0,,0
+29,90.0,Família,1,,0
+30,22.0,,3,Conteúdo insuficiente,1
+31,300.0,Premium,0,,0
+32,15.5,Básico,5,Preço elevado,1
+33,170.0,Família,1,,0
+34,8.0,Básico,6,Problemas técnicos,1
+35,215.0,Premium,0,,0
+36,110.0,Família,2,,0
+37,,Básico,2,,0
+38,42.0,Básico,4,Preço elevado,1
+39,195.0,Premium,0,,0
+40,18.5,Básico,3,Conteúdo insuficiente,1
+41,260.0,Família,0,,0
+42,12.0,Básico,5,Problemas técnicos,1
+43,145.8,Premium,1,,0
+44,88.0,Família,0,,0
+45,35.0,,4,Preço elevado,1
+46,230.0,Premium,0,,0
+47,14.0,Básico,3,Conteúdo insuficiente,1
+48,180.0,Família,1,,0
+49,6.0,Básico,7,Problemas técnicos,1
+50,155.0,Premium,0,,0
+51,275.0,Premium,0,,0
+52,20.0,Básico,4,Preço elevado,1
+53,125.0,Família,1,,0
+54,92.0,Básico,0,,0
+55,11.0,Básico,5,Conteúdo insuficiente,1
+56,240.5,Premium,0,,0
+57,28.0,,2,Preço elevado,1
+58,160.0,Família,0,,0
+59,7.5,Básico,6,Problemas técnicos,1
+60,138.0,Premium,1,,0
+61,,Básico,1,,0
+62,75.0,Família,3,Preço elevado,1
+63,290.0,Premium,0,,0
+64,19.0,Básico,4,Conteúdo insuficiente,1
+65,182.0,Família,0,,0
+66,202.0,Premium,0,,0
+67,16.0,Básico,5,Preço elevado,1
+68,218.0,Família,1,,0
+69,38.0,Básico,3,Problemas técnicos,1
+70,148.0,Premium,0,,0
+71,250.0,Premium,0,,0
+72,13.0,Básico,4,Conteúdo insuficiente,1
+73,115.0,Família,2,,0
+74,,Premium,0,,0
+75,48.0,Básico,3,Preço elevado,1
+76,198.0,Família,0,,0
+77,9.0,Básico,5,Problemas técnicos,1
+78,162.0,Premium,0,,0
+79,85.0,Família,1,,0
+80,21.0,,4,Conteúdo insuficiente,1
+81,315.0,Premium,0,,0
+82,17.0,Básico,5,Preço elevado,1
+83,178.0,Família,0,,0
+84,4.0,Básico,6,Problemas técnicos,1
+85,225.0,Premium,0,,0
+86,105.0,Família,1,,0
+87,,Básico,0,,0
+88,50.0,Básico,3,Preço elevado,1
+89,188.0,Premium,0,,0
+90,23.0,Básico,4,Conteúdo insuficiente,1
+91,265.0,Família,0,,0
+92,11.5,Básico,5,Problemas técnicos,1
+93,152.0,Premium,1,,0
+94,98.0,Família,0,,0
+95,32.0,,3,Preço elevado,1
+96,235.0,Premium,0,,0
+97,13.5,Básico,4,Conteúdo insuficiente,1
+98,172.0,Família,1,,0
+99,8.5,Básico,6,Problemas técnicos,1
+100,168.0,Premium,0,,0

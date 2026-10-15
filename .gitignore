@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Configurações locais e credenciais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+
+# Artefatos regeneráveis
+**/data/processed/*
+!**/data/processed/.gitkeep
+**/outputs/graficos/*
+!**/outputs/graficos/.gitkeep
+**/outputs/relatorios/*
+!**/outputs/relatorios/.gitkeep
+**/warehouse/*.db
+**/warehouse/*.db-journal
+**/warehouse/*.db-wal
+**/warehouse/*.db-shm
+!**/warehouse/.gitkeep
+
+# Relatórios locais de cobertura
+.coverage
+htmlcov/

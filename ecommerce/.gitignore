@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.DS_Store
+.vscode/
+*.log
+# Evite versionar bancos reais ou dados pessoais de operações comerciais.
+# Este arquivo SQLite é exclusivamente sintético e faz parte do material de estudo.

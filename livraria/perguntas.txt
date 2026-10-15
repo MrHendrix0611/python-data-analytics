@@ -1,0 +1,5 @@
+1 - Qual foi o faturamento bruto total acumulado no mês somando todas as vendas de livros?
+2 - Qual foi o lucro líquido total obtido no mês e qual a margem de lucro percentual geral da livraria?
+3 - Qual categoria gerou o maior volume de vendas em receita e qual gerou o maior lucro absoluto?
+4 - Quais livros possuem menos de 10 unidades em estoque e precisam de reposição urgente?
+5 - Existe relação entre ter notas mais altas e vender mais unidades?

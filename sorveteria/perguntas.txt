@@ -1,0 +1,15 @@
+1 - Quais sabores são mais vendidos e quais são menos vendidos?
+2 - A temperatura influencia a quantidade de sorvetes vendidos?
+3 - O clima — ensolarado, nublado ou chuvoso — interfere nas vendas?
+4 - Vendemos mais nos finais de semana do que durante a semana?
+5 - Feriados possuem impacto significativo nas vendas?
+6 - Campanhas de marketing realmente aumentam as vendas?
+7 - Dar desconto aumenta suficientemente as vendas para compensar a redução da margem?
+8 - Quais sabores geram maior faturamento e quais geram maior lucro?
+9 - Existe relação entre fluxo de pessoas na loja e quantidade vendida?
+10 - Quais sabores apresentam maior risco de ruptura de estoque?
+11 - Existem meses ou períodos do ano em que as vendas são significativamente maiores?
+12 - Quais fatores estão mais associados a um nível de vendas alto?
+13 - É possível prever se as vendas serão Baixas, Médias ou Altas utilizando as demais informações?
+14 - Quais variáveis são mais importantes para prever o nível das vendas?
+15 - Como essas descobertas poderiam ajudar a sorveteria a definir estoque, promoções e preços?
