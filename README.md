@@ -90,6 +90,3 @@ Este repositório utiliza bases **fictícias, demonstrativas ou de estudo**; nã
 
 O repositório contém os arquivos de entrada necessários para reprodução dos exercícios. Dados processados, caches, ambientes locais e relatórios de execução são gerados novamente ao rodar os projetos.
 
-## Publicação e testes contínuos
-
-Instruções para publicar no GitHub: [docs/PUBLICACAO_GITHUB.md](./docs/PUBLICACAO_GITHUB.md). As cinco aplicações com testes automatizados são verificadas pelo workflow de integração contínua em `.github/workflows/tests.yml`.
